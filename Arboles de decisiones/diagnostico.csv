@@ -1,0 +1,11 @@
+Patient ID,Sore throat,Fever,Swollen Glands,Congestion,Headache,Diagnosis
+1,Yes,Yes,Yes,Yes,Yes,Strep thoat
+2,No,No,No,Yes,Yes,Allergy
+3,Yes,Yes,No,Yes,No,Cold
+4,Yes,No,Yes,No,No,Strep thoat
+5,No,Yes,No,Yes,No,Cold
+6,No,No,No,Yes,No,Allergy
+7,No,No,Yes,No,No,Strep thoat
+8,Yes,No,No,Yes,Yes,Allergy
+9,No,Yes,No,Yes,Yes,Cold
+10,Yes,Yes,No,Yes,Yes,Cold
