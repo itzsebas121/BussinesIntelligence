@@ -1,0 +1,23 @@
+Utilice el dataset titanic.xlsx, para clasificar o predecir qué pasajero va a sobrevivir. 
+
+Actividades de preprocesamiento
+Analice los atributos y datos del dataset
+Saque estadísticas
+Genere gráficas
+Valores perdidos
+Son necesarios todos los atributos para aplicar los algoritmos
+Si va a eliminar algún atributo, justifíquelo
+Si encuentra valores perdidos o faltantes, deberían ser eliminados o sustituidos. Justifique su decisión.
+Utilice el algoritmo de DecisionTreeClassifier y determine cuál de los 3 criterios es mejor en la clasificación, comparando el score de cada uno.
+Para cada uno de los siguientes algoritmos de aprendizaje, calcule el score y determine el mejor modelo.
+•Logistic Regression
+•Random Forest Classification
+•Support Vector Machine (SVM)
+•Native bayes
+•Adaptive Boosting (AdaBoost)
+•Gradient Boosted Trees
+•Extreme Gradient Boosting (XGBoost)
+•K-Nearest Neighbors Classification(KNN)
+Grupos de 2 estudiantes
+
+Suben el archivo .ipynb
